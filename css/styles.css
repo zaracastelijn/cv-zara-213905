@@ -23,14 +23,13 @@ body {
 
 .resume-aside {
 	background-color: #A64F03;
-	
 }
 
 /* Styles for lists in the document */
 
 .biography-details li::before, .skill-list li::before {
 	content: ">";
-	color: #A64F03; 
+	color: antiquewhite; 
 	font-weight: 800;
 	display: inline-block;
 	width: 1em;
@@ -38,7 +37,7 @@ body {
 }
 
 .biography-details li::before {
-	color: #EE7623;
+	color: #A64F03;
 }
 
 .biography-details li, .skill-list li {
@@ -50,6 +49,7 @@ body {
 .contact-icon {
 	height: 1em;
 	flex-basis: 1.4em;
+		
 }
 .square {
 }
