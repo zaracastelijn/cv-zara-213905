@@ -15,7 +15,7 @@ Create your own GitHub repository based on this template by clicking on
 
 ## Course requirements
 
-Please check the latest requirements for the résumé [in the PRJ4 Guide](https://buas-media-interactive.github.io/prj4-guide/checklist-individual.html)
+Please check the latest requirements for the résumé [in the PRJ4 Guide](https://github.com/zaracastelijn/cv-zara-213905)
 
 ## Image credits
 
